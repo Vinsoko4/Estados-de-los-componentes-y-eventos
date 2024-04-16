@@ -1,0 +1,6 @@
+.content-style {
+    background-image: linear-gradient(to right top, #F4C800, #F47300, #CC0060, #9A009F);
+    border-radius: 10px;
+    padding: 30px;
+}
+/* "Forula-style" -> Estilo del div donde van background-image: linear-gradient, border-radius y un Padding*/

@@ -1,0 +1,14 @@
+.iconsSocial {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  font-size: 40px;
+  margin-bottom: 20px;
+  color: white;
+    
+} 
+
+.title-text {
+  margin-top: 10px;
+  color: white;
+}
